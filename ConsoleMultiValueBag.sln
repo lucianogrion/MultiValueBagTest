@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiValueBagTest", "MultiValueBagTest\MultiValueBagTest.csproj", "{578F098C-CBE7-4A8D-A7FA-D52B9F20C005}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMultiValueBagTestRestrict", "ConsoleMultiValueBagTestRestrict\ConsoleMultiValueBagTestRestrict.csproj", "{1FB659F4-1EAE-46F2-BEBA-350181D2E25E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{578F098C-CBE7-4A8D-A7FA-D52B9F20C005}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{578F098C-CBE7-4A8D-A7FA-D52B9F20C005}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{578F098C-CBE7-4A8D-A7FA-D52B9F20C005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB659F4-1EAE-46F2-BEBA-350181D2E25E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB659F4-1EAE-46F2-BEBA-350181D2E25E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB659F4-1EAE-46F2-BEBA-350181D2E25E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB659F4-1EAE-46F2-BEBA-350181D2E25E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
